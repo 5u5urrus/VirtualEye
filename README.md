@@ -1,7 +1,16 @@
 
 # VirtualEye
 
-VirtualEye is a powerful Python tool designed to automate the process of IP address reverse lookups through the HackerTarget API. It checks for hosts to be alive, can operate with or without an API, and can optionally also leverages the Tor network for anonymous requests, handling multiple IP addresses concurrently and efficiently.
+<table border="0" style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://github.com/5u5urrus/VirtualEye/assets/165041037/6fd5bcd6-9d34-446b-8759-41bff0fd42e6"  width="100%" height="100%" alt="VirtualEye Logo">
+    </td>
+    <td style="border:none;">
+      <strong>VirtualEye</strong> is a powerful Python tool designed to automate the process of IP address reverse lookups through the HackerTarget API. It checks for hosts to be alive, can operate with or without an API, and can optionally also leverage the Tor network for anonymous requests, handling multiple IP addresses concurrently and efficiently.
+    </td>
+  </tr>
+</table>
 
 ## Features
 
